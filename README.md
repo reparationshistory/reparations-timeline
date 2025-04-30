@@ -7,7 +7,7 @@ This project is a living educational resource documenting reparations efforts ac
 
 ## About
 
-The dataset is continuously updated in a Google Sheet for live use on the [Reparations Timeline Website](https://reparationshistory.org).  
+The dataset is continuously updated in a Google Sheet for live use on the [Reparations Timeline Website](reparationshistory.org).  
 Versioned, citable releases are archived here on GitHub and assigned DOIs via Zenodo.
 
 ## How to Use
