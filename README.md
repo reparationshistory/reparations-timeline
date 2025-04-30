@@ -1,12 +1,13 @@
 # reparations-timeline
 Continuously updated educational dataset documenting reparations efforts
+
 # Reparations Timeline
 
-This project is a living educational resource documenting reparations efforts across different jurisdictions and time periods.
+This project is a living educational resource documenting reparations efforts across time.
 
 ## About
 
-The dataset is continuously updated in a Google Sheet for live use on the [Reparations Timeline Website](#).  
+The dataset is continuously updated in a Google Sheet for live use on the [Reparations Timeline Website](https://reparationshistory.org).  
 Versioned, citable releases are archived here on GitHub and assigned DOIs via Zenodo.
 
 ## How to Use
@@ -22,7 +23,7 @@ Please cite the version you used, e.g.:
 
 ## License
 
-This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+This work is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/).
 
 ## Contact
 
