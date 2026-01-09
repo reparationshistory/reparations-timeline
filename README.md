@@ -12,7 +12,7 @@ Versioned, citable releases are archived here on GitHub and assigned DOIs via Ze
 
 ## How to Use
 
-- For the **most current version**, view the live Google Sheet [here](https://docs.google.com/spreadsheets/d/1NUlCE2-BG-LuXcYXly8r0frJlcOuO6FLHhfs2MN7HHU/edit?usp=sharing).
+- For the **most current version**, view the live Google Sheet [here](https://docs.google.com/spreadsheets/d/1BwBPgVLcVdKS4g-AItse_0ex1hwEVDC5ZjkaLH3_ZqI/edit?usp=sharing).
 - For a **stable, citable version**, refer to the GitHub releases or Zenodo DOI (10.5281/zenodo.15390817)
 
 ## Citation
