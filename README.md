@@ -1,7 +1,7 @@
 # reparations-timeline
 Continuously updated educational dataset documenting reparations efforts
 
-# Reparations Timeline
+# Reparations History
 
 This project is a living educational resource documenting reparations efforts across time.
 
@@ -19,7 +19,7 @@ Versioned, citable releases are archived here on GitHub and assigned DOIs via Ze
 
 Please cite the version you used, e.g.:
 
-Davis, A. J., & Di Valentino, L. (2025). An Historical Timeline of Reparations Payments Made Since 1773 by the United States Government, States, Cities, Religious Institutions, Universities, Corporations, and Communities (Version 0.1) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.15390818
+Davis, A. J., & Di Valentino, L. (2026). Reparations History: An Historical Timeline of Reparations Payments by the United States Government, States, Cities, Religious Institutions, Universities, Corporations, and Communities (Version 1.0) [Data set]. https://reparationshistory.org; https://doi.org/10.5281/zenodo.15390818
 
 ## License
 
